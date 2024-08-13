@@ -14,10 +14,10 @@
 
 unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 {
-	int	i;
-	int	j;
-	int	ld;
-	int	ls;
+	unsigned int	i;
+	unsigned int	j;
+	unsigned int	ld;
+	unsigned int	ls;
 
 	i = 0;
 	j = 0;
